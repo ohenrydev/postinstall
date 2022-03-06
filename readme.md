@@ -26,4 +26,4 @@
 * Provavelmente devem haver inúmeras maneiras de aprimorar este script.
 
 * Qualquer bug ou erro, peço que crie um issue, e se possível, já mande uma possível solução(lógico, dependendo da sua experiência e capacidades).
-*Cuidado com as questões de compatibilidade pois o script foi testado apenas no Ubuntu e no Zorin OS(O qual é criado em cima da estrutura do ubunto e inclusive utiliza muitos de seus repositórios), a não observância disto, pode levar a uma quebra do seu sistema operacional, parecido com oque acontecia com o Katoolin (para aqueles que fizeram o uso).
+*Cuidado com as questões de compatibilidade pois o script foi testado apenas no Ubuntu e no Zorin OS(O qual é criado em cima da estrutura do ubuntu e inclusive utiliza muitos de seus repositórios), a não observância disto, pode levar a uma quebra do seu sistema operacional, parecido com oque acontecia com o Katoolin (para aqueles que fizeram o uso).
